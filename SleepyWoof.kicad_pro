@@ -466,8 +466,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
-      "pos_files": "",
+      "plot": "fab",
+      "pos_files": "fab",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -538,13 +538,13 @@
           "group_by": false,
           "label": "DPN",
           "name": "DPN",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "DST",
           "name": "DST",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,

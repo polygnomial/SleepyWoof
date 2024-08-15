@@ -5303,7 +5303,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7361-38_AVX-V"
 			(at 58.42 53.34 0)
 			(effects
 				(font
@@ -5330,7 +5330,7 @@
 				(hide yes)
 			)
 		)
-		(property "DPN" "478-12572-1-ND"
+		(property "DPN" "478-12518-2-ND"
 			(at 58.42 53.34 0)
 			(effects
 				(font
@@ -5357,7 +5357,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "TPSE227K016T0100V"
+		(property "MPN" "TCN4227M025R0100"
 			(at 58.42 53.34 0)
 			(effects
 				(font
@@ -5555,7 +5555,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" "Vishay Polytech"
+		(property "MFR" "Murata"
 			(at 109.22 113.03 0)
 			(effects
 				(font
@@ -5564,7 +5564,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "T58MM106M6R3C0500"
+		(property "MPN" "GRT188R61C106KE13D"
 			(at 109.22 113.03 0)
 			(effects
 				(font
@@ -5936,7 +5936,7 @@
 				(hide yes)
 			)
 		)
-		(property "DST" "Mouser"
+		(property "DST" "Digi-Key"
 			(at 82.55 58.42 0)
 			(effects
 				(font
@@ -5945,7 +5945,7 @@
 				(hide yes)
 			)
 		)
-		(property "DPN" "595-TLV1704AMPWPSEP"
+		(property "DPN" "296-43799-2-ND"
 			(at 82.55 58.42 0)
 			(effects
 				(font
@@ -6533,7 +6533,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" "Vishay Polytech"
+		(property "MFR" "Murata"
 			(at 180.34 116.84 0)
 			(effects
 				(font
@@ -6542,7 +6542,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "T58MM106M6R3C0500"
+		(property "MPN" "GRT188R61C106KE13D"
 			(at 180.34 116.84 0)
 			(effects
 				(font
@@ -6871,7 +6871,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7361-38_AVX-V"
 			(at 68.58 53.34 0)
 			(effects
 				(font
@@ -6898,7 +6898,7 @@
 				(hide yes)
 			)
 		)
-		(property "DPN" "478-12572-1-ND"
+		(property "DPN" "478-12518-2-ND"
 			(at 68.58 53.34 0)
 			(effects
 				(font
@@ -6925,7 +6925,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "TPSE227K016T0100V"
+		(property "MPN" "TCN4227M025R0100"
 			(at 68.58 53.34 0)
 			(effects
 				(font
@@ -7662,7 +7662,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" "Vishay Polytech"
+		(property "MFR" "Murata"
 			(at 190.5 116.84 0)
 			(effects
 				(font
@@ -7671,7 +7671,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "T58MM106M6R3C0500"
+		(property "MPN" "GRT188R61C106KE13D"
 			(at 190.5 116.84 0)
 			(effects
 				(font
@@ -7935,7 +7935,7 @@
 				(hide yes)
 			)
 		)
-		(property "DST" "Mouser"
+		(property "DST" "Digi-Key"
 			(at 231.14 113.03 0)
 			(effects
 				(font
@@ -7944,7 +7944,7 @@
 				(hide yes)
 			)
 		)
-		(property "DPN" "595-TLV1704AMPWPSEP"
+		(property "DPN" "296-43799-2-ND"
 			(at 231.14 113.03 0)
 			(effects
 				(font
@@ -8232,7 +8232,7 @@
 				(hide yes)
 			)
 		)
-		(property "DST" "Mouser"
+		(property "DST" "Digi-Key"
 			(at 129.54 110.49 0)
 			(effects
 				(font
@@ -8241,7 +8241,7 @@
 				(hide yes)
 			)
 		)
-		(property "DPN" "595-TLV1704AMPWPSEP"
+		(property "DPN" "296-43799-2-ND"
 			(at 129.54 110.49 0)
 			(effects
 				(font
@@ -8354,7 +8354,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7361-38_AVX-V"
 			(at 48.26 53.34 0)
 			(effects
 				(font
@@ -8372,7 +8372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "220µF Molded Tantalum Capacitors 16V 2917 (7343 Metric) 100mOhm @ 100kHz"
+		(property "Description" "220µF Molded Tantalum Capacitors 25V 2924 (7361 Metric) 100mOhm @ 100kHz"
 			(at 48.26 53.34 0)
 			(effects
 				(font
@@ -8381,7 +8381,7 @@
 				(hide yes)
 			)
 		)
-		(property "DPN" "478-12572-1-ND"
+		(property "DPN" "478-12518-2-ND"
 			(at 48.26 53.34 0)
 			(effects
 				(font
@@ -8408,13 +8408,38 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "TPSE227K016T0100V"
+		(property "MPN" "TCN4227M025R0100"
 			(at 48.26 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "DigiKey Part Number" ""
+			(at 48.26 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" ""
+			(at 48.26 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Power Rating" ""
+			(at 48.26 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -8505,7 +8530,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" "Vishay Polytech"
+		(property "MFR" "Murata"
 			(at 146.05 114.3 0)
 			(effects
 				(font
@@ -8514,7 +8539,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "T58MM106M6R3C0500"
+		(property "MPN" "GRT188R61C106KE13D"
 			(at 146.05 114.3 0)
 			(effects
 				(font
@@ -8610,7 +8635,7 @@
 				(hide yes)
 			)
 		)
-		(property "DST" "Mouser"
+		(property "DST" "Digi-Key"
 			(at 204.47 110.49 0)
 			(effects
 				(font
@@ -8619,7 +8644,7 @@
 				(hide yes)
 			)
 		)
-		(property "DPN" "595-TLV1704AMPWPSEP"
+		(property "DPN" "296-43799-2-ND"
 			(at 204.47 110.49 0)
 			(effects
 				(font
@@ -8948,7 +8973,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" "Vishay Polytech"
+		(property "MFR" "Murata"
 			(at 227.33 86.36 0)
 			(effects
 				(font
@@ -8957,7 +8982,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "T58MM106M6R3C0500"
+		(property "MPN" "GRT188R61C106KE13D"
 			(at 227.33 86.36 0)
 			(effects
 				(font
@@ -9732,7 +9757,7 @@
 				(hide yes)
 			)
 		)
-		(property "DST" "Mouser"
+		(property "DST" "Digi-Key"
 			(at 165.1 113.03 0)
 			(effects
 				(font
@@ -9741,7 +9766,7 @@
 				(hide yes)
 			)
 		)
-		(property "DPN" "595-TLV1704AMPWPSEP"
+		(property "DPN" "296-43799-2-ND"
 			(at 165.1 113.03 0)
 			(effects
 				(font
